@@ -36,13 +36,13 @@ In this Repository you can find useful link for Airsoft stuff. All entries in a 
 
 ## Events
 
-- [Airsoft Days](https://airsofthelden.com/events/airsoft-days/)
-- [AO - Airsoft Operations](https://airsoftoperations.eu/)
-- [Dark Emergency](https://airsofthelden.com/events/dark-emergency/)
-- [Light-Sim](https://airsofthelden.com/events/light-sim/)
-- [Lost Airfield](https://airsofthelden.com/events/lost-airfield/)
-- [Mission 24H](https://airsofthelden.com/events/mission24/)
-- [OP Tschernobyl](https://airsofthelden.com/events/op-tschernobyl/)
+- [Airsoft Days (GER)](https://airsofthelden.com/events/airsoft-days/)
+- [AO - Airsoft Operations (GER)](https://airsoftoperations.eu/)
+- [Dark Emergency (GER)](https://airsofthelden.com/events/dark-emergency/)
+- [Light-Sim (GER)](https://airsofthelden.com/events/light-sim/)
+- [Lost Airfield (GER)](https://airsofthelden.com/events/lost-airfield/)
+- [Mission 24H (GER)](https://airsofthelden.com/events/mission24/)
+- [OP Tschernobyl (GER)](https://airsofthelden.com/events/op-tschernobyl/)
 
 ## Shops
 
