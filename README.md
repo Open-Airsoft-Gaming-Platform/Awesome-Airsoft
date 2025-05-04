@@ -48,6 +48,7 @@ In this Repository you can find useful link for Airsoft stuff. All entries in a 
 
 ### All inclusive
 
+- [4komma5](https://www.4komma5.de)
 - [AA Store](https://www.aa-store.at/)
 - [Aliexpress (Be aware of low quality products!)](https://de.aliexpress.com/)
 - [Amocs](https://www.amocs.de/)
