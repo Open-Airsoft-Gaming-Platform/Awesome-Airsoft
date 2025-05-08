@@ -13,6 +13,7 @@ In this Repository you can find useful link for Airsoft stuff. All entries in a 
 - [Shops](#shops)
   - [All inclusive](#all-inclusive)
   - [Gear only](#gear-only)
+  - [Miscellaneous](#miscellaneous)
 
 ## 3D Printing
 ### Attachement Speedloader
@@ -68,6 +69,7 @@ In this Repository you can find useful link for Airsoft stuff. All entries in a 
 - [Kotte & Zeller](https://www.kotte-zeller.de/)
 - [Me Paintball](https://www.me-paintball.de/)
 - [Novritsch](https://eu.novritsch.com)
+- [Phylax Airsoft](https://shop.phylax-airsoft.de/)
 - [PW Store](https://www.pw-store.de/)
 - [Shoot Club](https://www.shoot-club.de/)
 - [Shop-Gun Sportwaffen Lemgo UG & Co. Kg](https://shop-gun.de/)
@@ -86,8 +88,16 @@ In this Repository you can find useful link for Airsoft stuff. All entries in a 
 - [BW Online Shop](https://www.bw-online-shop.com/)
 - [Copper and Brass](https://copperandbrass.de)
 - [German Operator](https://www.german-operator.de)
+- [Helikon-Tex](https://helikon-tex.com)
+- [Mechanix](https://www.mechanix.com)
 - [Military](https://military.eu)
-- [Sturm - Tactical & Outdoor Products (Miltec)](https://www.miltec.de)
 - [NightTec](https://nighttec.net)
 - [Protory](https://protory.eu)
+- [S4 Supplies](https://s4supplies.com/)
+- [Sturm - Tactical & Outdoor Products (Miltec)](https://www.miltec.de)
+- [Tactical Forward](https://www.tactical-forward.com/)
 - [Vanguard Solutions](https://vanguardsolutions.com/)
+
+### Miscellaneous
+
+- [patch-werk](https://www.patch-werk.com)
