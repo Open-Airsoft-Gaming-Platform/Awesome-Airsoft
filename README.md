@@ -96,6 +96,8 @@ In this Repository you can find useful link for Airsoft stuff. All entries in a 
 - [S4 Supplies](https://s4supplies.com/)
 - [Sturm - Tactical & Outdoor Products (Miltec)](https://www.miltec.de)
 - [Tactical Forward](https://www.tactical-forward.com/)
+- [TACWRK](https://www.tacwrk.com/)
+- [UF Pro](https://ufpro.com)
 - [Vanguard Solutions](https://vanguardsolutions.com/)
 
 ### Miscellaneous
